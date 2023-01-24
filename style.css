@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(63, 0, 71);
+    color: rgb(68, 0, 255);
+}
+
+.capitalismo{
+    width: 80%;
+    font-size: 22px;
+}
+
+.esparagráfo{
+    font-size: 22px;
+}
+
+.nomeObjetos,#resultado-nome,#resultado-precisão{
+
+font-size: 22px;
+color: darkblue;
+}
+
+#camera,#foto{
+    border: 2px dashed white;
+    margin: auto;
+    width: 350px;
+    height: 200px;
+}
